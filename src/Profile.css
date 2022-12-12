@@ -1,0 +1,17 @@
+.Profile {
+    background-color: rgb(39, 44, 51);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: calc(7px + 2vmin);
+    color: rgb(53, 192, 195);
+}
+.Profile > h1 {
+    font-style: italic;
+    font-size: 1.5em;
+}
+.Profile > h2 {
+    font-style: italic;
+    color: rgb(53, 192, 195)
+}
