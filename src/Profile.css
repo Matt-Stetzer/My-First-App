@@ -6,10 +6,12 @@
     justify-content: center;
     font-size: calc(7px + 2vmin);
     color: rgb(53, 192, 195);
+    margin: 50px 25px;
 }
 .Profile > h1 {
     font-style: italic;
     font-size: 1.5em;
+    margin: 50px 25px;
 }
 .Profile > h2 {
     font-style: italic;

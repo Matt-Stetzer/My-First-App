@@ -15,8 +15,8 @@
 }
 
 .App-header {
-  background-color: #1eeaea;
-  font-family: cursive;
+  background-color: rgb(53, 192, 195);
+  font-family: 'Times New Roman', Times, serif;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -24,6 +24,7 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: rgb(0, 0, 0);
+  margin: 50px 25px;
 }
 
 .App-link {

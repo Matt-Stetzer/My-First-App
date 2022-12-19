@@ -1,6 +1,5 @@
 import logo from "./sun.png";
 import "./App.css";
-import { useState } from "react";
 import Profile from "./Profile.js";
 
 function App() {
